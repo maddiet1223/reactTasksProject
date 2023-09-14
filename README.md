@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `When running the application locally please excute both npm start and npm run server as both the servers have to be up and running for the fetch data to work`
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +15,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm run server`
+
+Runs the json server to run the application locally to fetch the data
+Open http://localhost:5000/tasks to view it in your browser.
+
 
 ### `npm test`
 
